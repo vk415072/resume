@@ -148,3 +148,41 @@ img {
       transition: 0.3;
    }
 }
+
+.nav__logo,
+.nav__toggle {
+   color: var(--title-color);
+   font-weight: var(--font-medium);
+}
+
+.nav__toggle {
+   font-size: 1.2rem;
+   cursor: pointer;
+}
+
+.nav__item {
+   text-align: center;
+}
+
+.nav__list {
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+   gap: 2rem;
+}
+
+.nav__link {
+   display: flex;
+   flex-direction: column;
+   font-size: var(--smaller-font-size);
+   color: var(--text-color-light);
+   font-weight: var(--font-medium);
+}
+
+.nav__link:hover {
+   color: var(--title-color);
+}
+
+.nav__icon {
+   font-size: 1.2rem;
+   margin-bottom: var(--mb-1);
+}
