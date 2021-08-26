@@ -1,2 +1,12 @@
 # resume
- This repo contains a responsive resume
+This repo contains a responsive resume
+
+Tech:
+1. HTML
+2. CSS
+3. JS
+
+Third parties:
+1. Boxicons
+2. Googel Fonts
+3. html2pdf
