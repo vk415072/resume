@@ -188,6 +188,11 @@ img {
 }
 
 /* show menu */
-.show-menu{
-    bottom: var(--header-height);
+.show-menu {
+   bottom: var(--header-height);
+}
+
+/* Active menu link */
+.active-link {
+   color: var(--text-color);
 }
