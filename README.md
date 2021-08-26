@@ -1,2 +1,2 @@
 # resume
- This repo containes a responsive resume
+ This repo contains a responsive resume
