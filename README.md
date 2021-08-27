@@ -8,5 +8,5 @@ Tech:
 
 Third parties:
 1. Boxicons
-2. Googel Fonts
+2. Google Fonts
 3. html2pdf
