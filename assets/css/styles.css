@@ -361,7 +361,25 @@ img {
 }
 
 /* CERTIFICATES */
-.certificate__title{
-    font-size: var(--h3-font-size);
-    margin-bottom: var(--mb-1);
+.certificate__title {
+   font-size: var(--h3-font-size);
+   margin-bottom: var(--mb-1);
+}
+
+/* REFERENCES */
+.references__content {
+   gap: 0.25rem;
+}
+
+.references__subtitle {
+   color: var(--text-color-light);
+}
+
+.references__subtitle,
+.references__contact {
+   font-size: var(--smaller-font-size);
+}
+
+.references__title {
+font-size: var(--h3-font-size);
 }
